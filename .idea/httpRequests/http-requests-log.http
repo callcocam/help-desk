@@ -1,0 +1,30 @@
+GET http://localhost:8585/api/client?email=callcocam@gmai.com
+Accept:*/*
+Cache-Control:no-cache
+
+###
+
+POST http://localhost:8585/api/client?email=callcocam@gmai.com
+Accept:*/*
+Cache-Control:no-cache
+
+###
+
+POST http://localhost:8585/api/client
+Accept:*/*
+Cache-Control:no-cache
+
+###
+
+POST http://localhost:8080/api/auth
+Accept:*/*
+Cache-Control:no-cache
+
+###
+
+POST http://localhost:8080/api/auth
+Accept:*/*
+Cache-Control:no-cache
+
+###
+
